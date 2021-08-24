@@ -34,11 +34,7 @@ sections:
 
 
           *   Online application branded to your needs
-
-
           *   Digital signing of application and agreements
-
-
           *   Remote customer identification and onboarding
         actions:
           - label: Learn More
