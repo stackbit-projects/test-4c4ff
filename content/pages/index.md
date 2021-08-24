@@ -6,9 +6,10 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Launch competitive online lending products in weeks
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Lending Cloud Platform combines the best of SaaS and custom development
+      worlds by ensuring the speed of go to market and adaptability to your
+      organization’s unique needs and branding
     actions:
       - label: Learn More
         url: /features
