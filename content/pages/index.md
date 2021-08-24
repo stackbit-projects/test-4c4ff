@@ -105,6 +105,29 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+
+            - title: Approve applications instantly without taking extra risk
+        image: images/feature2.png
+        image_alt: App users welcoming a new member
+        content: >
+          Eliminate bottlenecks and manual processes in the end-to-end customer
+          journey without sacrificing on credit quality
+
+
+          *   Credit checks, instant decisioning and disbursements
+
+
+          *   Income validation via Open Banking integrations
+
+
+          *   Risk-based loan offers (amount, term, payment)
+        actions:
+          - label: Learn More
+            url: /features
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
   - section_id: reviews
     type: section_reviews
     background: white
