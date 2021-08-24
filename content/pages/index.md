@@ -31,8 +31,6 @@ sections:
           experience for your customers: from application, to signing, to
           onboarding, to servicing
 
-
-
           *   Online application branded to your needs
           *   Digital signing of application and agreements
           *   Remote customer identification and onboarding
@@ -49,7 +47,6 @@ sections:
         content: >
           Eliminate bottlenecks and manual processes in the end-to-end customer
           journey without sacrificing on credit quality
-
 
           *   Credit checks, instant decisioning and disbursements
           *   Income validation via Open Banking integrations
