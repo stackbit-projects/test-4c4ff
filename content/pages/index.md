@@ -50,10 +50,18 @@ sections:
       - title: Approve applications instantly without taking extra risk
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          Eliminate bottlenecks and manual processes in the end-to-end customer
+          journey without sacrificing on credit quality
+
+
+          *   Credit checks, instant decisioning and disbursements
+
+
+          *   Income validation via Open Banking integrations
+
+
+          *   Risk-based loan offers (amount, term, payment)
         actions:
           - label: Learn More
             url: /features
