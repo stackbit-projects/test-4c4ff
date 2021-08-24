@@ -100,13 +100,8 @@ sections:
           Eliminate bottlenecks and manual processes in the end-to-end customer
           journey without sacrificing on credit quality
 
-
           *   Credit checks, instant decisioning and disbursements
-
-
           *   Income validation via Open Banking integrations
-
-
           *   Risk-based loan offers (amount, term, payment)
         actions:
           - label: Learn More
