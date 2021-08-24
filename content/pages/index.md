@@ -26,10 +26,20 @@ sections:
       - title: Provide fully digital experience for customers
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Stand out from competition by offering a fully digital lending
+          experience for your customers: from application, to signing, to
+          onboarding, to servicing
+
+
+
+          *   Online application branded to your needs
+
+
+          *   Digital signing of application and agreements
+
+
+          *   Remote customer identification and onboarding
         actions:
           - label: Learn More
             url: /features
