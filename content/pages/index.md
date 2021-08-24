@@ -19,8 +19,9 @@ sections:
     background: gray
     title: White label lending platform for the instant age
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Online application and digital signing, remote identification and
+      onboarding, automated credit checks and instant decisioning - all
+      available out of a box as a white label cloud solution
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
