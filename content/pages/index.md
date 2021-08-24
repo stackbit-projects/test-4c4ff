@@ -52,11 +52,7 @@ sections:
 
 
           *   Credit checks, instant decisioning and disbursements
-
-
           *   Income validation via Open Banking integrations
-
-
           *   Risk-based loan offers (amount, term, payment)
         actions:
           - label: Learn More
