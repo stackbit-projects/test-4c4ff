@@ -93,7 +93,7 @@ sections:
             icon: arrow-right
             icon_position: right
 
-            - title: Approve applications instantly without taking extra risk
+      - title: Approve applications instantly without taking extra risk
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
