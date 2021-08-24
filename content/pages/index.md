@@ -72,10 +72,18 @@ sections:
       - title: Automate servicing and collection processes
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Lower NPLs ratios and servicing costs with automated notifications,
+          collection workflows, and credit bureau integrations
+
+
+          *   Customer notifications on upcoming and past due payments
+
+
+          *   Debt collection and recovery workflows for operations
+
+
+          *   Data exchange with credit bureaus and bailiffs
         actions:
           - label: Learn More
             url: /features
