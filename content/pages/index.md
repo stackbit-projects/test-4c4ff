@@ -23,7 +23,7 @@ sections:
       onboarding, automated credit checks and instant decisioning - all
       available out of a box as a white label cloud solution
     features:
-      - title: The Best Feature of Your Services
+      - title: Provide fully digital experience for customers
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
