@@ -65,13 +65,8 @@ sections:
           Lower NPLs ratios and servicing costs with automated notifications,
           collection workflows, and credit bureau integrations
 
-
           *   Customer notifications on upcoming and past due payments
-
-
           *   Debt collection and recovery workflows for operations
-
-
           *   Data exchange with credit bureaus and bailiffs
         actions:
           - label: Learn More
